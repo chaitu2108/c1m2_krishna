@@ -1,2 +1,7 @@
-# c1m2_krishna
-Build system and make files
+/**
+ * @DESCRIPTION
+ * Week2 Application Assignment of "Introduction to Embedded Systems Software and Development Environments" Course by Pr.Alex Fosdick
+ * @AUTHOR
+ * Mohamed EL FARISSI
+ * 
+ **/
